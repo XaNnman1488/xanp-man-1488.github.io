@@ -178,3 +178,36 @@ h1,h2,h3,h4,h5{
   font-weight:600;
   letter-spacing:2px;
 }
+.prof #name{
+font-size:35px;
+float-left: 10px;
+padding:10px 35px ;
+border-radius:15px;
+}
+.prof{
+padding:10px 10px 0 10px;
+border-radius:15px;
+background-color:#c7c7c7;
+}
+#profimg,#name{
+border-radius:50%;
+}#profimg,#name{
+margin:10px;
+}
+#q{
+padding:10px ;
+float-left:10px;
+font-family:Andale Mono, monospace;
+}
+#qw{
+padding:10px ;
+float-left:10px;
+font-family:Andale Mono, monospace;
+}
+#dlc{
+font-family:Andale Mono, monospace;
+list-style:none;
+padding:10px ;
+margin-left:50px;
+font-size:25px;
+}
