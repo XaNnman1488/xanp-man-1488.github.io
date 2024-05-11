@@ -219,3 +219,12 @@ margin-left:50px;
 font-size:25px;
 
 }
+.check {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
